@@ -25,7 +25,7 @@ const portfolioData = {
       description:
         "Sinema is a full-stack movie and TV review platform that allows users to discover, save, rate, and review media through an interactive web experience. The application integrates the TMDB API for movie and TV data and uses OpenRouter AI to provide natural language media discovery. Built with Flask, SQLAlchemy, SQLite, JavaScript, and Bootstrap, Sinema demonstrates experience with API integration, authentication systems, database-driven applications, and modular web architecture. Originally developed as a collaborative software development project, Sinema has continued to evolve through additional feature development, improvements, and maintenance.",
       technologies: ["HTML/CSS", "JavaScript", "Python", "Flask", "Bootstrap 5", "SQLite", "REST API", "OpenRouter API"],
-      image: "src/images/sinema.PNG",
+      image: "public/images/sinema.PNG",
       imageAlt: "Screenshot of Sinema",
       githubUrl: "https://github.com/SethMoga/Sinema",
       liveDemoUrl: "https://sinema-sigma.vercel.app"
